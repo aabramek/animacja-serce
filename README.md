@@ -5,11 +5,11 @@ do wyświetlania animacji
 ## Obsługa
 Ustawienie parametrów jest realizowane przez ustawienia
 
-+Wyboru animacji
++ Wyboru animacji
 
-+Czasu między kolejnymi krokami animacji
++ Czasu między kolejnymi krokami animacji
 
-+Jasności diod
++ Jasności diod
 
 Krótkie przyciśnięcie przycisku zmienia wartość wybranego ustawienia np. kolejna animacja lub zwiększenie jasności
 Kierunek zmian jest w jedną stronę, aby przejść na początek trzeba przejść przez wszystkie wartości
