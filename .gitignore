@@ -1,0 +1,8 @@
+Nowy folder/*
+plytka/gerbers/*
+plytka/animacja serce-backups/*
+plytka/animacja serce osobista.kicad_pcb
+program/.vs
+program/animacja_serce.atsln
+program/animacja_serce/*
+!program/animacja_serce/main.c
